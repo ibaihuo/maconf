@@ -1,0 +1,47 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/opt/ttwxenv/ttwx-server/" . "opanalysis/")
+ ("/opt/ttwxenv/" . "ttwx-server/")
+ ("/opt/ttwxenv/ttwx-dbcron/once_tasks/" . "lib/")
+ ("/opt/ttwxenv/ttwx-dbcron/" . "dblib/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/opt/ttwxenv/ttwx-dbcron/fill_dbdata/"
+ "/opt/ttwxenv/ttwx-dbcron/dblib/"
+ "/opt/ttwxenv/ttwx-dbcron/once_tasks/lib/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "fillRecommendAndCountToAreaDB.py"
+ "dbconn.py"
+ "settings.py"
+ "db.py"
+ "calc_areas_markplace_count.sh"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/opt/ttwxenv/ttwx-dbcron/dblib/" (21712 30067 0 0) "dbconn.py" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/opanalysis/" (21711 19543 0 0) "user_pic_analysis.py" "user_action.py" "update_fake_info.py" "sendmsg.py" "replace_loginname_space.py" "promote_china.py" "find_not_in_member.py" "fake_user_login.py" "fake_id.py" "dump_sign_activity.py" "dump_midautumn_activity.py" "dump_markplace.py" "drop_weixin_session.py" "delete_fake_fans.py" "clean_future_time_fake_pic.py" "bind_session_and_member.py" "add_share_to_activity.py" "add_last_position.py" "add_default_user.py" "add_china_promote.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/" (21711 19543 0 0) "unused/" "srcdoc/" "src/" "sbin/" "README.txt" "opanalysis/" "devops/" "bin/" "apidoc/" ".gitignore" ".git/" "../" "./")
+
+ ("/opt/ttwxenv/" (21712 17924 0 0) "ttwx-weixin/" "ttwx-website/" "ttwx-webops/" "ttwx-webadmin/" "ttwx-web/" "ttwx-tests/" "ttwx-soft/" "ttwx-server/" "ttwx-run/" "ttwx-recsys/" "ttwx-operation/" "ttwx-log/" "ttwx-dbcron/" "ttwx-data/" "ttwx-admin/" "pip-selfcheck.json" "lib/" "include/" "gitupdate.sh" "docs/" "demoserver/" "data_mining/" "bin/" ".Python" ".DS_Store" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-dbcron/once_tasks/lib/" (21711 19548 0 0) "settings.py" "model.py" "logger.py" "db.py" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-dbcron/once_tasks/" (21711 19548 0 0) "UserNearbyCron.py" "markplaceupdate.py" "mark_place_unique.py" "mark_place.py" "lib/" "fill_sign_to_markplace.py" "doc/" "cityshare.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-dbcron/" (21712 29701 0 0) "weibo_sync/" "user_nearby/" "user_commend/" "user_action/" "once_tasks/" "markplace/" "fill_dbdata/" "dblib/" ".gitignore" ".git/" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-dbcron/fill_dbdata/" (21712 29688 0 0) "fillRecommendAndCountToAreaDB.py" "calc_areas_markplace_count.sh" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
