@@ -38,8 +38,6 @@
 ;; (autoload 'pymacs-load "pymacs" nil t)
 
 
-
-
 ;; for ropemacs
 ;; (pymacs-load "ropemacs" "rope-")
 ;; (setq ropemacs-enable-autoimport t)
@@ -69,13 +67,13 @@
 
 
 ;; 初始化
-(load-file "~/.emacs.d/plugins/emacs-for-python/epy-init.el")
-(require 'epy-setup)      ;; It will setup other loads, it is required!
-(require 'epy-python)     ;; If you want the python facilities [optional]
-(require 'epy-completion) ;; If you want the autocompletion settings [optional]
-(require 'epy-editing)    ;; For configurations related to editing [optional]
-(require 'epy-bindings)   ;; For my suggested keybindings [optional]
-(require 'epy-nose)       ;; For nose integration
+;; (load-file "~/.emacs.d/plugins/emacs-for-python/epy-init.el")
+;; (require 'epy-setup)      ;; It will setup other loads, it is required!
+;; (require 'epy-python)     ;; If you want the python facilities [optional]
+;; (require 'epy-completion) ;; If you want the autocompletion settings [optional]
+;; (require 'epy-editing)    ;; For configurations related to editing [optional]
+;; (require 'epy-bindings)   ;; For my suggested keybindings [optional]
+;; (require 'epy-nose)       ;; For nose integration
 
 ;; 拼写检查
 ;(epy-setup-checker "pyflakes %f")
@@ -86,7 +84,7 @@
                                        ;; for a list of colors: http://raebear.net/comp/emacscolors.html
 
 ;; 设置ipython
-(epy-setup-ipython)
+;; (epy-setup-ipython)
 
 ;; 符号自动匹配
 ;;(setq skeleton-pair nil)
