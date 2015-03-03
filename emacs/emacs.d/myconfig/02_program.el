@@ -21,6 +21,8 @@
 ;; 调用 linum.el(line number)来显示行号
 ;; (require 'linum)
 (global-linum-mode t)
+;; 设置显示格式
+;;(setq linum-format "  %d ")
 
 ;; 显示与之匹配的符号(,[,{
 (show-paren-mode t)
@@ -78,32 +80,34 @@
 (autoload 'turn-off-folding-mode "folding" "Folding mode" t)
 (autoload 'turn-on-folding-mode  "folding" "Folding mode" t)
 
-
 ;; 整行移动
 ;; ALT-up  会把光标所在的整行文字上移一行
 ;; ALT-down会把光标所在的整行文字下移一行
 (global-set-key [(meta p)] 'move-line-up)
-(global-set-key [(meta n)] 'move-line-down) 
+(global-set-key [(meta n)] 'move-line-down)
 (defun move-line (&optional n)
   "Move current line N (1) lines up/down leaving point in place."
   (interactive "p")
   (when (null n)
-    (setq n 1))
+	(setq n 1))
   (let ((col (current-column)))
-    (beginning-of-line)
-    (next-line 1)
-    (transpose-lines n)
-    (previous-line 1)
-    (move-to-column col)))
+	(beginning-of-line)
+	(next-line 1)
+	(transpose-lines n);
+	(previous-line 1)
+	(move-to-column col)))
+
 (defun move-line-up (n)
   "Moves current line N (1) lines up leaving point in place."
   (interactive "p")
-  (move-line (if (null n) -1 (- n)))) 
+  (move-line (if (null n) -1 (- n)))
+  (previous-line 1)						;光标需要回到上一行(临时修复)
+  )
 
 (defun move-line-down (n)
   "Moves current line N (1) lines down leaving point in place."
   (interactive "p")
-  (move-line (if (null n) 1 n))) 
+  (move-line (if (null n) 1 n)))
 
 ;; 功能是：按M-w键就可以复制光标所在的这一行
 (global-set-key (kbd "M-w") 'huangq-save-line-dwim)
