@@ -1,11 +1,11 @@
 [color]
 	ui = true
 [core]
-	editor = emacs
+	editor = vim
 	excludesfile = /Users/renewjoy/.gitignore_global
 [user]
-	email = ren.liujiang@ttwx365.com
-	name = ren.liujiang
+	email = oyea9le@qq.com
+	name = renewjoy
 [push]
 	default = simple
 [alias]
