@@ -1,0 +1,321 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/renewjoy/GuoXM/StreamTest/" . "order-pressure/")
+ ("/Users/renewjoy/Library/" . "KeyBindings/")
+ ("/Users/renewjoy/Documents/github/maconf/emacs/emacs.d/" . "myconfig/")
+ ("/Users/renewjoy/Documents/github/maconf/emacs/" . "emacs.d/")
+ ("/Users/renewjoy/Documents/github/maconf/" . "emacs/")
+ ("/Users/renewjoy/Documents/github/" . "maconf/")
+ ("/Users/renewjoy/Documents/" . "github/")
+ ("/opt/gscodes/gpjenv/car-match/" . "dmodel_match/")
+ ("/opt/gscodes/gpjenv/" . "car-match/")
+ ("/opt/gscodes/" . "gpjenv/")
+ ("/Users/" . "renewjoy/")
+ ("/opt/anaconda3/lib/python3.5/site-packages/Orange/" . "data/")
+ ("/opt/plkj/plkj-toolkit/plkj_toolkit/" . "data_cleaning/")
+ ("/opt/plkj/plkj-toolkit/" . "plkj_toolkit/")
+ ("/opt/plmd/06-WebApps/diagnosis/" . "lib_for_integration_0301/")
+ ("/opt/plmd/06-WebApps/seg_and_ner/medical_segment_tagger/" . "segment_model/")
+ ("/opt/plmd/06-WebApps/seg_and_ner/" . "medical_ner_tagger/")
+ ("/opt/plmd/06-WebApps/" . "seg_and_ner/")
+ ("/opt/plmd/06-WebApps/boss/" . "apis/")
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/diagnosis/" . "seg_and_ner/")
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/" . "diagnosis/")
+ ("/Users/renewjoy/Documents/FullData/qzsjc/dumpleanote/" . "publish/")
+ ("/Users/renewjoy/SourceCode/tpot/" . "tpot/")
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/ml-scikit-learn/" . "01_decision_tree/")
+ ("/opt/ttwxenv/ttwx-dbcron/user_nearby/" . "app/")
+ ("/opt/ttwxenv/ttwx-recsys/config/" . "production/")
+ ("/opt/ttwxenv/ttwx-recsys/" . "config/")
+ ("/opt/ttwxenv/ttwx-server/src/activities/management/" . "commands/")
+ ("/opt/ttwxenv/ttwx-server/src/activities/" . "management/")
+ ("/opt/ttwxenv/ttwx-server/src/shares/" . "management/")
+ ("/opt/ttwxenv/ttwx-server/src/shares/management/" . "commands/")
+ ("/opt/ttwxenv/ttwx-server/src/webapp/config/" . "production/")
+ ("/opt/ttwxenv/ttwx-server/src/webapp/" . "config/")
+ ("/opt/ttwxenv/ttwx-server/src/" . "utils/")
+ ("/opt/" . "gscodes/")
+ ("/" . "opt/")
+ ("/Users/renewjoy/.emacs.d/" . "joyconf.d/")
+ ("/Users/renewjoy/" . "Library/")
+ ("/opt/ttwxenv/ttwx-server/" . "devops/")
+ ("/opt/ttwxenv/" . "ttwx-server/")
+ ("/opt/ttwxenv/ttwx-dbcron/once_tasks/" . "lib/")
+ ("/opt/ttwxenv/ttwx-dbcron/" . "dblib/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/renewjoy/DataScience/BlockChain/GoLang/twohund/"
+ "/Users/renewjoy/GuoXM/StreamTest/order-pressure/"
+ "/Users/renewjoy/GuoXM/StreamTest/cusprod/"
+ "/Users/renewjoy/GuoXM/StreamTest/"
+ "/Users/renewjoy/Library/KeyBindings/"
+ "/Users/renewjoy/"
+ "/Users/renewjoy/.emacs.d/joyconf.d/"
+ "/Users/renewjoy/Documents/github/maconf/emacs/emacs.d/myconfig/"
+ "/Users/renewjoy/Documents/github/maconf/emacs/"
+ "/Users/renewjoy/.emacs.d/"
+ "/opt/gscodes/gpjenv/car-match/dmodel_match/"
+ "/Users/renewjoy/.emacs.d/joyconf/"
+ "/Users/renewjoy/.emacs.d/myconfig/"
+ "/Users/renewjoy/DataScience/"
+ "/Users/renewjoy/PrinceTech/MaoTai/maotai0914/"
+ "/opt/anaconda3/lib/python3.5/site-packages/Orange/data/"
+ "/opt/anaconda3/lib/python3.5/site-packages/Orange/"
+ "/opt/anaconda3/lib/python3.5/site-packages/Orange/classification/"
+ "/Users/renewjoy/PrinceTech/MaoTai/models/"
+ "/Users/renewjoy/Desktop/pic_recg/"
+ "/opt/plkj/plkj-toolkit/plkj_toolkit/data_cleaning/"
+ "/Users/renewjoy/Documents/PrinceTech/茅台电商/异常用户分析/"
+ "/opt/plmd/06-WebApps/diagnosis/"
+ "/opt/plmd/06-WebApps/diagnosis/lib_for_integration_0301/"
+ "/opt/plmd/06-WebApps/"
+ "/opt/plmd/06-WebApps/seg_and_ner/medical_ner_tagger/"
+ "/opt/plmd/06-WebApps/seg_and_ner/medical_segment_tagger/"
+ "/opt/plmd/06-WebApps/seg_and_ner/"
+ "/opt/plmd/06-WebApps/boss/apis/"
+ "/opt/plmd/06-WebApps/seg_and_ner/medical_segment_tagger/segment_model/"
+ "/opt/plmd/06-WebApps/boss/templates/"
+ "/opt/plmd/06-WebApps/boss/views/"
+ "/opt/plmd/src/boss/"
+ "/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/diagnosis/seg_and_ner/"
+ "/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/diagnosis/"
+ "/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/boss/"
+ "/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/智能诊断模型代码/"
+ "/opt/plmd/src/"
+ "/opt/plmd/src/diagnosis/"
+ "/Users/renewjoy/airflow/dags/"
+ "/Users/renewjoy/Documents/FullData/qzsjc/dumpleanote/"
+ "/Users/renewjoy/DataScience/bigdata-fortune-telling/gap/"
+ "/Users/renewjoy/SourceCode/tpot/tpot/"
+ "/Users/renewjoy/fulldata/"
+ "/Users/renewjoy/Documents/github/bigdata-fortune-telling/15_decision_tree/"
+ "/Users/renewjoy/tmp/"
+ "/Users/renewjoy/Programs/ML/scikit-learn-0.16.1/doc_cn/modules/"
+ "/Users/renewjoy/Cluster/english/"
+ "/Users/renewjoy/Documents/GongPJ/city_cluster/"
+ "/Users/renewjoy/Documents/github/bigdata-fortune-telling/ml-scikit-learn/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".env"
+ "sdk_pressure.py"
+ "cusp.py"
+ "flink_dev.py"
+ "joy.py"
+ "joy-http-order.py"
+ "DefaultKeyBinding.dict"
+ "shelf_table.py"
+ "webtracking-test.py"
+ "1.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/renewjoy/DataScience/BlockChain/GoLang/twohund/" (23273 11828 0 0) "xx.go" ".env" "../" "./")
+
+ ("/Users/renewjoy/GuoXM/StreamTest/order-pressure/" (23262 42805 0 0) "xx.py" "shelf_table.py" "sdk_pressure.py" "order_stat.csv" "order_list.csv" "order_detail.csv" "order.csv" "one.json" "http_order_log.py" "http-test.csv" "flink_dev.py" "city.csv" "base_nb.txt" "../" "./")
+
+ ("/Users/renewjoy/GuoXM/StreamTest/" (23262 51827 0 0) "webtracking-test.py" "order-pressure/" "log4j_appender.py" "joy-http-order.py" "http-test.csv" "cusprod/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/GuoXM/StreamTest/cusprod/" (23262 52720 0 0) "xxx.txt" "x.py" "t.py" "joy.py" "flycheck_x.py" "cusp.py" "1.txt" "1.json" "../" "./")
+
+ ("/Users/renewjoy/Library/KeyBindings/" (23261 36988 0 0) "DefaultKeyBinding.dict" "../" "./")
+
+ ("/Users/renewjoy/Library/" (23261 38606 0 0) "yWorks/" "XMind/" "WebKit/" "Voices/" "VirtualBox/" "Tableau/" "SyncedPreferences/" "Suggestions/" "StickiesDatabase" "Spelling/" "Sounds/" "SimpleMind/" "Sharing/" "Services/" "Screen Savers/" "Saved Application State/" "sapi/" "Safari/" "Receipts/" "PubSub/" "Private Documents/" "Printers/" "Preferences/" "PreferencePanes/" "PDF Services/" "pcassist/" "Passes/" "Parallels/" "ODBC/" "Network/" "Metadata/" "Messages/" "Maps/" "Mail/" "Logs/" "LaunchAgents/" "LanguageModeling/" "Keychains/" "KeyboardServices/" "Keyboard Layouts/" "Keyboard/" "KeyBindings/" "Jupyter/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "IdentityServices/" "Group Containers/" "Google/" "GameKit/" "Fonts/" "FontCollections/" "Favorites/" "Edraw/" "Dictionaries/" "Developer/" "DataScienceStudio/" "CrashLogs/" "CoreFollowUp/" "CoreData/" "Cookies/" "Containers/" "Compositions/" "com.youdao.YoudaoDict/" "com.apple.nsurlsessiond/" "Colors/" "ColorPickers/" "CallServices/" "Calendars/" "Caches/" "Autosave Information/" "autojump/" "Audio/" "Assistants/" "Assistant/" "ArangoDB-etc/" "ArangoDB/" "Application Support/" "Application Scripts/" "Alipay/" "Address Book Plug-Ins/" "Accounts/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/" (23261 39144 0 0) "VirtualBox VMs/" "TEMP/" "Softwares/" "Public/" "Pictures/" "node_modules/" "nltk_data/" "Music/" "Movies/" "Library/" "IdeaProjects/" "GuoXM/" "flink-int/" "emacs.d/" "Downloads/" "Documents/" "Desktop/" "DataScience/" "bin/" "Applications (Parallels)/" "Applications/" "anaconda3/" "anaconda2/" "1.txt" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump" ".vscode/" ".vnc/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".theano/" ".swt/" ".superset/" ".subversion/" ".steam/" ".ssh/" ".sqlite_history" ".sqlectron.json" ".spark_history" ".spark-shell.log" ".siege/" ".ShadowsocksX-NG/" ".scala_history" ".sbt/" ".rstudio-desktop/" ".Rprofile" ".rodeorc" ".rodeoprofile" ".Rhistory" ".rediscli_history" ".Rapp.history" ".RapidMiner/" ".QtWebEngineProcess/" ".python_history" ".pylint.d/" ".psql_history" ".profile-anaconda.bak" ".profile" ".pip/" ".pgadmin/" ".Orange Canvas/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".mysql_history" ".mplayer/" ".mongorc.js" ".mkshrc" ".matplotlib/" ".MarkEditorData/" ".m2/" ".lldb/" ".lesshst" ".keras/" ".jupyter/" ".ivy2/" ".ipython/" ".ipynb_checkpoints/" ".idea-build/" ".httpie/" ".hivehistory" ".hgignore_global" ".groovy/" ".gremlin_groovy_history" ".gitignore_global" ".gitconfig" ".fontconfig/" ".ethash/" ".erlang.cookie" ".emacs~" ".emacs.d/" ".emacs" ".electron/" ".eclipse/" ".dvdcss/" ".DS_Store" ".dropbox-master/" ".dropbox/" ".distlib/" ".dia-etc/" ".devcenter/" ".dbshell" ".dbk_info" ".dbeaver4/" ".dbeaver-drivers/" ".datastax_studio/" ".cups/" ".continuum/" ".configIpmsg" ".config/" ".condarc" ".condamanager/" ".conda/" ".cheat/" ".CFUserTextEncoding" ".cassandra/" ".boot2docker/" ".beeline/" ".beaker/" ".bash_profile-anaconda3.bak" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".avidemux6/" ".atom/" ".android/" ".anaconda/" ".activator/" "../" "./")
+
+ ("/Users/renewjoy/.emacs.d/" (23261 37107 0 0) "snippets/" "network-security.data" "joyconf.d/" "ido.last" "eshell/" "elpa/" "bak/" "auto-save-list/" "../" "./")
+
+ ("/Users/renewjoy/.emacs.d/joyconf.d/" (23136 43022 0 0) "100_others.el" "03_python.el" "02_program.el" "01_basic.el" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/maconf/emacs/emacs.d/" (23134 1015 0 0) "SessionDesktop.el" "plugins/" "myconfig/" "ido.last" "eshell/" "eproject.lst" "elpa/" "elisp/" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/maconf/emacs/" (23136 36822 0 0) "emacs.d/" "emacs" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/maconf/" (23136 39135 0 0) "zsh/" "README.txt" "init_maconf.sh" "git/" "emacs.old.sh" "emacs.elpy/" "emacs/" ".git/" ".DS_Store" "../" "./")
+
+ ("/opt/gscodes/gpjenv/car-match/dmodel_match/" (22719 31305 0 0) "update_match.py" "study/" "standard.sh" "stand_vol_control.py" "slug_train_test.sh" "slug_train.sh" "slug_test.sh" "dump_train_global_name.sh" "dump_train.sh" "dump_test_global_name.sh" "dump_test.sh" "dump_dmodel.sh" "dmodel_match.py" "auto.sh" "../" "./")
+
+ ("/opt/gscodes/gpjenv/car-match/auto_brand/" (22719 31305 0 0) "update_brand.py" "dump_valid.sh" "dump_train.sh" "dump_test.sh" "dump_dmodle.sh" "crond_brand.sh" "brand_match.py" "../" "./")
+
+ ("/opt/gscodes/gpjenv/car-match/" (22719 31305 0 0) "README.md" "model_match/" "full_match/" "dmodel_match_spark/" "dmodel_match/" "dict/" "daily_match/" "commons/" "clean_data/" "buyer_promtion/" "brand_match/" "bm_similarity/" "auto_dmodel/" "auto_brand/" ".gitignore" ".git/" "../" "./")
+
+ ("/opt/gscodes/gpjenv/car-looks/" (22958 28865 0 0) "webapi/" "vehicle_rec.py" "README.md" "read_img.py" "mutil_pred.py" "full-synset.txt" "fine-tune.py" "downpic.py" "data/" "car_train.py" "car_pred.py" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/opt/gscodes/gpjenv/" (22776 35588 0 0) "zeppelin-notes/" "sql2hive/" "month-stats/" "dupimg/" "dealer-match/" "cs-sort/" "cn-resid/" "car-recsys/" "car-match/" "car-looks/" "auto.sh" "../" "./")
+
+ ("/opt/gscodes/" (23067 30714 0 0) "ttwxenv/" "plmd/" "plkj/" "jsody/" "gpjenv/" "../" "./")
+
+ ("/opt/" (23095 35697 0 0) "zeppelin-0.7.2-bin-all/" "zeppelin/" "X11/" "super-air/" "spark-2.2.0-bin-hadoop2.7/" "spark-2.1.1-bin-hadoop2.7/" "spark/" "smile-1.4.0/" "smile-1.3.1/" "smile/" "simba/" "scala-2.10.5/" "scala/" "sbt/" "orientdb-community-importers-2.2.31/" "orientdb/" "mate18/" "janusgraph-0.2.0-hadoop2/" "janusgraph/" "gscodes/" "gremlin/" "flink-1.3.2/" "flink/" "dstudio/" "dse-5.1.5/" "dse/" "datastax-studio-2.0.0/" "apache-tinkerpop-gremlin-console-3.2.6/" "anaconda3/" "anaconda2/" "amazon/" ".Rhistory" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/TEMP/" (23136 37161 0 0) "janusgraph.ipynb" "gremlin学习.groovy" "1.groovy" ".Rhistory" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/茅台电商/异常用户分析/" (22925 21029 0 0) "高危区域.xlsx" "正常用户.xlsx" "原始异常用户数据.xlsx" "phone_addr.csv" "phone.py" "normal.csv" "norm_latlon.csv" "nl.csv" "get_norm_latlon.py" "get_bak.py" "get_area.py" "df_res.csv" "df_latlon.csv" "calc_ratio.py" "3.py" "2.py" "1.py" "1.csv" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/DataScience/" (23123 22288 0 0) "深度学习.pdf" "正则表达式的支持的差别.html" "异常检测/" "常用的数据分析方法.pdf" "基础统计学知识.pdf" "visual/" "user_profiling_competition/" "tf_reduce_sum.jpg" "SourceCode/" "sometech/" "Scala/" "RFM-analysis/" "R/" "PyTorchZeroToAll/" "python-for-bigdata.png" "practical-pytorch/" "opencv3-3.1.0-py27_0.tar.bz2" "nlp/" "mongodb/" "ml-summit-book-2017.pdf" "ML/" "lp_algroith.py" "Locdoc/" "LearnNotes/" "LearnAlg/" "learn-tech-2017.03.03.tar.bz2" "L1 Machine Learning to Deep Learning Subtitles.zip" "L1 Machine Learning to Deep Learning Subtitles/" "KnowledgeGraph/" "kindle-books/" "joy_test.py" "H2O/" "gStore_help_CN.pdf" "fttl-keras-nov2016-161120190859.pptx" "fastai-master.zip" "fastai-master/" "es/" "druid-0.9.2-bin.tar.gz" "digitalday6-dataiku.2.pdf" "decode.py" "Dataiku_DataSheet.pdf" "da-dl-dm-bd.gif" "Cluster/" "choose-gpu.jpg" "bres,eres,pres正则区别.html" "BlockChain/" "bigdata-fortune-telling/" "Bigdata/" "ai.jpeg" "ai-ml-dl.jpg" "2.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/maconf/emacs/emacs.d/myconfig/" (23134 898 0 0) "10_latex.el" "09_ruby.el" "08_phpjsp.el" "07_theme-music.el" "06_ccpp.el" "05_perl.el" "04_lisp.el" "03_python.el" "02_program.el" "01_basic.el" "../" "./")
+
+ ("/Users/renewjoy/.emacs.d/joyconf/" (23133 50363 0 0) "02_program.el" "01_basic.el" "../" "./")
+
+ ("/Users/renewjoy/emacs.d/" (23108 43408 0 0) "SessionDesktop.el" "plugins/" "myconfig/" "ido.last" "eshell/" "eproject.lst" "elpa/" "elisp/" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/" (23091 11008 0 0) "源代码培训/" "大数据创业/" "zipai/" "ttwx365/" "Tencent Files/" "TaoSource/" "Snagit/" "SimpleMind Free Store.smmstore" "PrinceTech/" "Personal/" "Parallels/" "Orange3Video/" "My Tableau Repository/" "murphy创业/" "longkun/" "knownsec/" "huzheng/" "GongPJ/" "github/" "FullVideo/" "FullData/" "Default.rdp" ".rqd/" ".parallels-vm-directory/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/" (22266 21802 0 0) "wordjoy/" "taotux/" "software/" "platform_django/" "null/" "maconf/" "cryptography/" "config/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/.emacs.d/myconfig/" (22975 10387 0 0) "10_latex.el" "09_ruby.el" "08_phpjsp.el" "07_theme-music.el" "06_ccpp.el" "05_perl.el" "04_lisp.el" "03_python.el" "02_program.el" "01_basic.el" "../" "./")
+
+ ("/Users/" (22867 30891 0 0) "Shared/" "renewjoy/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/renewjoy/PrinceTech/MaoTai/maotai0914/" (22975 30829 0 0) "userInfoMaker.py" "userInfoAgg.csv" "userInfo.csv" "userAggModule.py" "readme" "onlineJudgeModule.py" "judgeScalperModule.py" "joy222.py" "joy.py" "dataWithArea.csv" "data.csv" "calUserSimiModule.py" "AreaPartitionModule.py" "agg_clster.pkl" "addrs_clustered.csv" "../" "./")
+
+ ("/opt/anaconda3/lib/python3.5/site-packages/Orange/data/" (22969 22146 0 0) "variable.py" "util.py" "table.py" "storage.py" "sql/" "setup.py" "io.py" "instance.py" "filter.py" "domain.py" "_variable.cpython-35m-darwin.so" "_valuecount.cpython-35m-darwin.so" "_io.cpython-35m-darwin.so" "_contingency.cpython-35m-darwin.so" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/opt/anaconda3/lib/python3.5/site-packages/Orange/" (22969 22146 0 0) "widgets/" "version.py" "util.py" "tree.py" "tests/" "statistics/" "setup.py" "regression/" "projection/" "preprocess/" "modelling/" "misc/" "evaluation/" "ensembles/" "distance/" "datasets/" "data/" "clustering/" "classification/" "canvas/" "base.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/opt/anaconda3/lib/python3.5/site-packages/Orange/classification/" (22969 22146 0 0) "tree.py" "svm.py" "softmax_regression.py" "simple_tree.py" "simple_random_forest.py" "sgd.py" "setup.py" "rules.py" "random_forest.py" "neural_network.py" "naive_bayes.py" "majority.py" "logistic_regression.py" "knn.py" "elliptic_envelope.py" "base_classification.py" "_tree_scorers.cpython-35m-darwin.so" "_simple_tree.cpython-35m-darwin.so" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/PrinceTech/MaoTai/models/" (22968 64984 0 0) "way1.py" "tfidf_cluster.py" "start.py" "readme.txt" "predict.py" "models/" "data/" "cal_simi.py" "cal_huangniu.py" "addr_clustering.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Desktop/pic_recg/" (22954 53854 0 0) "testoverfit.py" "testforone.py" "test11.py" "../" "./")
+
+ ("/opt/plkj/plkj-toolkit/plkj_toolkit/data_cleaning/" (22914 50961 0 0) "cleaning.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/opt/plkj/plkj-toolkit/plkj_toolkit/" (22914 50961 0 0) "utilities/" "nlptk/" "model_training/" "model_optimizing.py" "model_merging/" "model_explaining/" "feature_engineering/" "data_sampling.py" "data_exploring.py" "data_cleaning/" "__pycache__/" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/opt/plkj/plkj-toolkit/" (22914 50869 0 0) "report/" "readme.txt" "README.md" "plkj_toolkit/" "model_save/" "LICENSE" "examples/" "data_cleaning_related_input_output/" "data/" ".git/" ".DS_Store" "../" "./")
+
+ ("/opt/plkj/plkj-toolkit/examples/" (22914 50956 0 0) "xgboost_test_ss.py" "xgboost_modelstudio_demo_zc.py" "xgboost_modelstudio.py" "xgboost_demo_zc.py" "xgboost_demo.py" "time_series_feature_extracting_by_record_demo.py" "time_series_feature_extracting_by_keys_demo.py" "test_wsh.py" "randomforest_test_zc.py" "randomforest_test_ss.py" "randomforest_modelstudio_test.py" "pl_word2vec_demo.py" "pl_text_split_demo.py" "pl_build_dict_demo.py" "model_optimizing_demo.py" "model_merging_voting_demo.py" "model_merging_stacking_demo.py" "lightgbm_test.py" "lightgbm_modelstudio.py" "gcForest_demo.py" "gbdt_test_ss.py" "gbdt_modelstudio.py" "feature_selection_demo.py" "feature_extracting_by_keys_without_each_column_rule_demo.py" "feature_extracting_by_keys_with_each_column_rule_demo.py" "extratrees_test_ss.py" "extratrees_modelstudio_test.py" "extratrees_modelstudio_demo_zc.py" "data_sampling_demo.py" "data_exploring_test_zc.py" "data_exploring_demo.py" "data_cleaning_demo.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/diagnosis/lib_for_integration_0301/" (22840 51567 0 0) "funFromTrain.pyc" "funFromTrain.py" "fun_for_mongo.pyc" "fun_for_mongo.py" "fun_for_integration.pyc" "fun_for_integration.py" "fun_for_integration-0303.py" "__init__.pyc" "__init__.py" ".ipynb_checkpoints/" "../" "./")
+
+ ("/opt/plmd/06-WebApps/diagnosis/" (22841 65209 0 0) "Untitled.ipynb" "seg_and_ner/" "online_clean_0312.py" "online_clean.py" "online_clean-0313.py" "lib_for_spread_col/" "lib_for_integration_0301/" "lib_clearn_up_0307/" "global_values.pyc" "global_values.py" "FFMClassifierOnevsall.pyc" "FFMClassifierOnevsall.py" "extract_ly/" "data_for_integration/" "__init__.pyc" "__init__.py" "0310/" ".test.py.swp" ".ipynb_checkpoints/" "../" "./")
+
+ ("/opt/plmd/06-WebApps/" (22841 8550 0 0) "structuration_ehr/" "static/" "smart_medical/" "seg_and_ner/" "requirements.txt" "README.md" "manage.py" "html5helper/" "doc/" "diagnosis/" "diag_test.py" "db.sqlite3" "data/" "boss/" "../" "./")
+
+ ("/opt/plmd/06-WebApps/seg_and_ner/medical_segment_tagger/" (22840 63238 0 0) "segment_model/" "medical-segmenet-proj" "data/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/seg_and_ner/" (22840 64192 0 0) "segtest.py" "segNer.pyc" "segNer.py" "nertest.py" "medical_segment_tagger/" "medical_ner_tagger/" "medical_keywords/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/seg_and_ner/medical_ner_tagger/" (22840 51507 0 0) "word_vector/" "utils.pyc" "utils.py" "train_loop.py" "train.py" "result/" "README.md" "optimization.pyc" "optimization.py" "nn.pyc" "nn.py" "model.pyc" "model.py" "model/" "make" "loader.pyc" "loader.py" "ExtractConcepts.py" "extract" "evaluation/" "data/" "conlleval.pyc" "conlleval.py" "conceptExtractor.py" "compute_vector_embeddings.py" "__init__.pyc" "__init__.py" ".ipynb_checkpoints/" "../" "./")
+
+ ("/opt/plmd/06-WebApps/seg_and_ner/medical_segment_tagger/segment_model/" (22840 51504 0 0) "crf_seg.py" "crf_model_segment.pyc" "crf_model_segment.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/boss/apis/" (22840 59349 0 0) "structurize_medical.pyc" "structurize_medical.py" "search_medical.pyc" "search_medical.py" "participle_medical.pyc" "participle_medical.py" "forms.pyc" "forms.py" "filter_medical.pyc" "filter_medical.py" "diagnosis_medical.pyc" "diagnosis_medical.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/boss/templates/" (22792 6782 0 0) "participle.html" "nav.html" "my_search.html" "medical_search.html" "medical_record_check.html" "medical_login.html" "intelligent_diagnosis.html" "index.html" "header.html" "footer.html" "construction.html" "._construction.html" "../" "./")
+
+ ("/opt/plmd/06-WebApps/boss/views/" (22840 51504 0 0) "search.pyc" "search.py" "report.pyc" "report.py" "participle.pyc" "participle.py" "home.pyc" "home.py" "history.pyc" "history.py" "diagnosis.pyc" "diagnosis.py" "construction.pyc" "construction.py" "account.pyc" "account.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/06-WebApps/boss/" (22840 51504 0 0) "views/" "utils.py" "urls.pyc" "urls.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "apps.py" "apis/" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/plmd/src/boss/" (22839 41120 0 0) "views/" "utils.py" "urls.pyc" "urls.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "apps.py" "apis/" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/opt/plmd/src/boss/apis/" (22839 41120 0 0) "structurize_medical.pyc" "structurize_medical.py" "search_medical.pyc" "search_medical.py" "participle_medical.pyc" "participle_medical.py" "participle.pyc" "forms.pyc" "forms.py" "filter_medical.pyc" "filter_medical.py" "diagnosis_medical.pyc" "diagnosis_medical.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/diagnosis/seg_and_ner/" (22839 30445 0 0) "segNer.pyc" "segNer.py" "segNer-Copy1.py" "medical_segment_tagger/" "medical_ner_tagger/" "medical_keywords/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/diagnosis/" (22839 30445 0 0) "Untitled.ipynb" "segNer.pyc" "seg_and_ner/" "online_clean_0312.pyc" "online_clean_0312.py" "online_clean.pyc" "online_clean.py" "online_clean-0313.py" "lib_for_spread_col/" "lib_for_integration_0301/" "lib_clearn_up_0307/" "global_values.pyc" "global_values.py" "FFMClassifierOnevsall.pyc" "FFMClassifierOnevsall.py" "extract_ly/" "data_for_integration/" "__init__.pyc" "__init__.py" "0310/" ".test.py.swp" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/boss/apis/" (22839 30137 0 0) "structurize_medical.pyc" "structurize_medical.py" "search_medical.pyc" "search_medical.py" "participle_medical.pyc" "participle_medical.py" "participle.pyc" "forms.pyc" "forms.py" "filter_medical.pyc" "filter_medical.py" "diagnosis_medical.pyc" "diagnosis_medical.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/boss/" (22839 30137 0 0) "views/" "utils.py" "urls.pyc" "urls.py" "tests.py" "templates/" "models.pyc" "models.py" "migrations/" "apps.py" "apis/" "admin.pyc" "admin.py" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/FullData/qzsjc/dumpleanote/" (22656 36931 0 0) "writer_notes.txt" "writer_notes.ids" "writer_dir.txt" "writer.txt" "writer/" "split.awk" "publish_notes.txt" "publish_notes.ids" "publish_dir.txt" "publish.txt" "publish/" "parse_notes.py" "parse_dir.py" "notes.db" "notebooks.db" "mybook.txt" "leanote.bak.2016.03.38.zip" "jb.py" "dump_writer.sh" "dump_publish.sh" "concat_art.sh" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/airflow/dags/" (22837 6344 0 0) "good.py" "daily_process.py" "__pycache__/" "../" "./")
+
+ ("/opt/plmd/src/" (22839 31238 0 0) "test.py" "structuration_ehr/" "static/" "smart_medical/" "seg_and_ner/" "requirements.txt" "README.md" "nohup.out" "manage.py" "html5helper/" "doc/" "diagnosis/" "db.sqlite3" "data/" "boss/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/" (22839 31238 0 0) "test.py" "structuration_ehr/" "static/" "smart_medical/" "seg_and_ner/" "requirements.txt" "README.md" "nohup.out" "manage.py" "html5helper/" "doc/" "diagnosis/" "db.sqlite3" "data/" "boss/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/科研平台及智能诊断demo代码/src/smart_medical/" (22839 30137 0 0) "wsgi.pyc" "wsgi.py" "urls.pyc" "urls.py" "settings.pyc" "settings.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/智能诊断模型代码/" (22839 24349 0 0) "test.py" "readme.txt" "diagnosis/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/PrinceTech/医疗项目/健康医疗事业部交接文件/健康医疗事业部－代码文件/智能诊断模型代码/diagnosis/" (22839 30857 0 0) "seg_and_ner/" "RFClassifierOnevsall.pyc" "RFClassifierOnevsall.py" "lib_for_integration_0301/" "global_values.pyc" "global_values.py" "data_for_integration_by_dis/" "data_for_integration_by_depart/" "__init__.pyc" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/opt/plmd/src/diagnosis/" (22839 30445 0 0) "Untitled.ipynb" "segNer.pyc" "seg_and_ner/" "online_clean_0312.pyc" "online_clean_0312.py" "online_clean.pyc" "online_clean.py" "online_clean-0313.py" "lib_for_spread_col/" "lib_for_integration_0301/" "lib_clearn_up_0307/" "global_values.pyc" "global_values.py" "FFMClassifierOnevsall.pyc" "FFMClassifierOnevsall.py" "extract_ly/" "data_for_integration/" "__init__.pyc" "__init__.py" "0310/" ".test.py.swp" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/FullData/qzsjc/dumpleanote/publish/" (22654 4958 0 0) "魅族pro6的几个问题.txt" "进度.txt" "计划.txt" "编辑反馈.txt" "第二版本.txt" "第一次反馈与更新.txt" "相关信息.txt" "目录.txt" "本书简介.txt" "未使用的片段.txt" "最终版本.txt" "文章注入灵魂.txt" "数据之路，地铁之网.txt" "寻求审稿人.txt" "合理设置Spark数据分区.txt" "出版社相关.txt" "二稿目录.txt" "二稿修订.txt" "书名相关.txt" "中秋佳节，《全栈数据》之技能图.txt" "三个框架与库，SFrame,Hdp2与skflow.txt" "一些想法.txt" "《全栈数据》提纲.txt" "《全栈数据》接受投稿了.txt" "《全栈数据》初稿完成.txt" "《云戒云》节目预告.txt" "Spark2.0，重要更新与改进.txt" "py3 http.txt" "MXNet，你的深度选择.txt" "Leanote有中文名了，叫蚂蚁笔记.txt" "hive事项.txt" "../" "./")
+
+ ("/Users/renewjoy/DataScience/bigdata-fortune-telling/gap/" (22565 58099 0 0) "tree.png" "tree.pdf" "symb.py" "spambase.zip" "spambase.names" "spambase.DOCUMENTATION" "spambase.csv" "spam.py" "s.py" "knapsack.py" "ga_sr.py" "d2.py" "d.py" "best.png" "best.pdf" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/SourceCode/tpot/tpot/" (22528 18478 0 0) "tpot.py" "operators/" "metrics.py" "gp_types.py" "export_utils.py" "driver.py" "decorators.py" "base.py" "_version.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/GongPJ/random_forests/" (22238 13291 0 0) "rf_spark.py" "process_n.py" "predict_price.py" "parse_libpredict_str.sh" "librf.string" "librf.pyc" "librf.py" "libpredict.py" "head" "car.rf.model/" "car.price.datetime" ".ropeproject/" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/fulldata/" (22516 38979 0 0) "or.py" "girl_date.csv" "code_lines.csv" "2.py" "1.tab" "1.py" "1.awk" "../" "./")
+
+ ("/Users/renewjoy/SourceCode/tpot/" (22528 17376 0 0) "tutorials/" "tpot/" "tests.py" "setup.py" "README.md" "PULL_REQUEST_TEMPLATE.md" "MANIFEST.in" "LICENSE" "ISSUE_TEMPLATE.md" "images/" "docs/" "ci/" "boston.py" ".travis.yml" ".landscape.yaml" ".gitignore" ".git/" ".coveragerc" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/15_decision_tree/" (22154 6974 0 0) "tree_x.png" "tree_2.png" "tree_1.png" "tree.dot" "spkdt.py" "gi.py" "dt.py" "decision_tree.rst" "data.csv" "c4.5.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/tmp/" (22009 9072 0 0) "vertebral/" "price_plot.py" "one" "las.py" "gmm.py" "deal.txt" "2d_plot.txt" "2d_plot.py" "1.sql" "1.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Programs/ML/scikit-learn-0.16.1/doc_cn/modules/" (21984 30378 0 0) "unsupervised_reduction.rst" "tree.rst" "svm.rst" "sgd.rst" "scaling_strategies.rst" "random_projection.rst" "preprocessing_targets.rst" "preprocessing.rst" "pipeline.rst" "outlier_detection.rst" "neural_networks.rst" "neighbors.rst" "naive_bayes.rst" "multiclass.rst" "model_persistence.rst" "model_evaluation.rst" "mixture.rst" "metrics.rst" "manifold.rst" "linear_model.rst" "learning_curve.rst" "lda_qda.rst" "label_propagation.rst" "kernel_ridge.rst" "kernel_approximation.rst" "isotonic.rst" "hmm.rst" "grid_search.rst" "glm_data/" "generated/" "gaussian_process.rst" "feature_selection.rst" "feature_extraction.rst" "ensemble.rst" "dp-derivation.rst" "density.rst" "decomposition.rst" "cross_validation.rst" "cross_decomposition.rst" "covariance.rst" "computational_performance.rst" "clustering.rst" "classes.rst" "calibration.rst" "biclustering.rst" "../" "./")
+
+ ("/Users/renewjoy/Cluster/english/" (21972 36588 0 0) "top5000.txt" "top5000.numbers" "top1000.txt" "sklearn/" "Improving_performance_of_Local_outlier_factor_with_KD-Trees.pdf" "dse46.txt" "cut_words.py" "bk_spark-quickstart-20150413.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Cluster/english/sklearn/" (21972 37702 0 0) "words.word" "scikit-learn-Cookbook.pdf" "scikit-docs.txt" "Mastering Machine Learning with scikit-learn.pdf" "master.txt" "machine.txt" "Machine Learning in Python.pdf" "joy.word" "cookbook.txt" ".DS_Store" ".#joy.word" "#joy.word#" "../" "./")
+
+ ("/Users/renewjoy/Documents/GongPJ/city_cluster/" (21941 50854 0 0) "result.txt" "gdp.txt" "city_gdp.txt" "city_cluster.py" "city_cluster.csv" "auto.sh" "2014_gdp.xls" "2014_gdp.csv" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/ml-scikit-learn/" (21916 50445 0 0) "tree.dot" "libload.pyc" "libload.py" "kmeans.txt" "fat_or_thin.txt" "endata/" "csc.txt" "10_rf_regression.py" "10_random_forests.py" "09_kmeans.py" "08_csc.py" "07_svm.py" "06_logistic_regression.py" "05_naive_bayes.py" "04_tfidf.py" "03_knn.py" "02_linear_regression.py" "01_decision_tree.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/GongPJ/linear_regression/" (21909 18595 0 0) "test.py" "submd.sh" "rf_spark.py" "process_n.py" "price_lr.py" "parse_rf.py" "new.csv" "model_str.py" "mod.py" "lpsa.data" "car_price.txt" "car.rf.model/" "car.price.bak" "car.price" "1" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/webapp/config/production/" (21780 63807 0 0) "settings_redis.py" "settings_mongodb.py" "settings_logging.py" "settings_cloudstorage.py" "settings_client.py" "settings_celery.py" "settings.py" "rabbitmq.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/likes/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/webapp/" (21781 6471 0 0) "wsgi.pyc" "wsgi.py" "urls.py" "settings_redis.pyc" "settings_redis.py" "settings_mongodb.pyc" "settings_mongodb.py" "settings_logging.pyc" "settings_logging.py" "settings_cloudstorage.pyc" "settings_cloudstorage.py" "settings_client.pyc" "settings_client.py" "settings_celery.pyc" "settings_celery.py" "settings.pyc" "settings.py" "request_response.py" "rabbitmq.py" "middlewares.pyc" "middlewares.py" "disable_crsf.py" "config/" "celery.pyc" "celery.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/notifications/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/members/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "rpc.pyc" "rpc.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/activities/management/commands/" (21780 61160 0 0) "clean_data.py" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/activities/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "rpc.pyc" "rpc.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "celeries/" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/shares/management/commands/" (21780 61160 0 0) "fix_share_time.py" "fix_share_send_index.py" "fix_share_counter.py" "fix_share_areaid.py" "fix_pic_others.py" "fix_nearby_share_index.py" "clean_share_like_data.py" "clean_share_counter_data.py" "clean_counter_rabbish.py" "change_share_time_to_recent.py" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/friends/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "service.pyc" "service.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "celeries/" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-dbcron/user_nearby/app/" (21775 55056 0 0) "trigger.py" "settings.py" "model.py" "logger.py" "fetcher.py" "engine.py" "db.py" "cityhottest.py" "base/" "application.py" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/comments/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "models.pyc" "models.py" "const.pyc" "const.py" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/areas/" (21781 6471 0 0) "views.py" "urls.py" "tests.py" "tasks.py" "service.pyc" "service.py" "rpc.py" "opdb.py" "models.pyc" "models.py" "const.pyc" "const.py" "caches.pyc" "caches.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/shares/" (21781 6471 0 0) "views.py" "urls.py" "tuding.json" "tests.py" "tasks.py" "service.pyc" "service.py" "rpc.pyc" "rpc.py" "models.pyc" "models.py" "management/" "const.pyc" "const.py" "celeries/" "caches.pyc" "caches.py" "async.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/devops/" (21781 1451 0 0) "uwsgi.ini" "supervisord.conf" "server_load.sh" "requirements.txt" "redis.conf" "README.txt" "nginx_dev.conf" "nginx.conf" "mongodb.conf" "management/" "log_monitor.py" "guard.py" "fabfile.pyc" "fabfile.py" "config/" "__init__.py" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/utils/" (21781 6471 0 0) "tests/" "testclean.py" "testcase.py" "string.pyc" "string.py" "response.pyc" "response.py" "register_ejb.py" "mongoengine/" "lib/" "error_code.pyc" "error_code.py" "encode_doc.py" "drop_keep.py" "decorators.pyc" "decorators.py" "common.pyc" "common.py" "Channel.pyc" "Channel.py" "bd_push.pyc" "bd_push.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/ml-scikit-learn/01_decision_tree/" (21904 65028 0 0) "tree.dot" "fat_or_thin.txt" "dec_tree.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/ml-scikit-learn/03_knn/" (21905 3916 0 0) "knn.py" "../" "./")
+
+ ("/Users/renewjoy/Documents/github/bigdata-fortune-telling/ann/" (21903 50231 0 0) "pybb.py" "pla/" "neu.py" "ann_bp_xor_demo.py" ".DS_Store" "../" "./")
+
+ ("/Users/renewjoy/Programs/Cluster/english/" (21828 26312 0 0) "split.py" "head100.txt" "dse46.txt" "1.txt" "../" "./")
+
+ ("/Users/renewjoy/.ssh/" (21818 2429 0 0) "known_hosts" "id_rsa.pub" "id_rsa" "id_boot2docker.pub" "id_boot2docker" "config" "../" "./")
+
+ ("/opt/jsody/scrpits/mysql/" (21812 44690 0 0) "old_new.txt" "old_lattice_fee.txt" "old.txt" "new.txt" "mutil_name.txt" "lattice_name_id.txt" "lattice.txt" "jpush_for_notake.py" "get_device_id.py" "get_all_counter.py" "dumpdata/" "dumpall.sh" "dump_schema.sh" "count_order_sms.old.py" "count_order_sms.new.py" "company_man_count.old.py" "company_man_count.new.py" "awk_concat_old_new.awk" "a.py" ".DS_Store" "../" "./")
+
+ ("/opt/ttwxenv/ttwx-server/src/" (21780 53668 0 0) "wxgame/" "weibos/" "webapp/" "utils/" "topgrossing/" "templates/" "statistics/" "static/" "shares/" "sensitivewords/" "notifications/" "members/" "manage.py" "likes/" "informant/" "globaldata/" "friends/" "feeds/" "feedbacks/" "favors/" "effects/" "coupons/" "comments/" "cloudstorage/" "chat/" "avatars/" "areas/" "activities/" ".ropeproject/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

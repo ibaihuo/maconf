@@ -1,0 +1,6 @@
+which pip
+pip install autopep8
+pip install --upgrade jedi
+pip install --upgrade yapf
+ls
+pip install --upgrade importmagic

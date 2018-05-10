@@ -1,0 +1,1 @@
+(define-package "importmagic" "20170703.944" "Fix Python imports using ."  '((f "0.11.0") (epc "0.1.0") (emacs "24.3") ) :url "https://github.com/anachronic/importmagic.el" :keywords '("languages" "convenience" ))
