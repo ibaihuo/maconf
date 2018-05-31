@@ -3,6 +3,9 @@
 
 (add-hook 'python-mode-hook #'smartparens-mode)
 
+;; 不要高亮缩进(去掉缩进前面的光标框)
+(add-hook 'elpy-mode-hook (lambda () (highlight-indentation-mode -1)))
+
 (setq py-indent-offset 4)		;自定义缩进为4
 
 (defvar myPackages
