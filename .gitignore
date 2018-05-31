@@ -1,2 +1,4 @@
 *.pyc
+ido.last
+eshell/history
 auto-save-list
